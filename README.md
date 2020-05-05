@@ -36,3 +36,4 @@ Later, a study is conducted to investigate the genotype-phenotype mappings that 
 ### Data link
 
 [Experiment data generated can be assessible here](https://numcmy-my.sharepoint.com/:f:/g/personal/hcyjc3_nottingham_edu_my/EnQiPpToVB9MvPRtcN2AK3gB86g8abLByJBNAMj5EodoKw?e=XKprJD)
+- you can create a folder named "data" at the root directory and copy all experiment data into it
